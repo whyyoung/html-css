@@ -1,0 +1,18 @@
+
+
+h3{
+	border: 2px solid black;
+	padding: 5px;
+}
+
+input{
+	background-color: #FFFF99;
+}
+
+select{
+	background-color: #FF9;
+}
+
+input#last-name{
+	font-weight: bold;
+}
